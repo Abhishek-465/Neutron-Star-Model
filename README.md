@@ -1,6 +1,4 @@
-Sure, I'll ensure the formulas are displayed correctly. Here is the revised `README.md` with proper LaTeX formatting:
 
----
 
 # Neutron Star Modeling
 
