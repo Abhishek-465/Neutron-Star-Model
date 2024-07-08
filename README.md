@@ -1,8 +1,9 @@
 # Neutron Star Modeling
+![Neutron-Star-Jet](https://github.com/Abhishek-465/Neutron-Star-Model/assets/127030695/c64ef0a6-0a65-4fff-878b-99948af9af8d)
 
 This project involves the modeling of a neutron star by plotting its mass and pressure profile using both classical and relativistic approaches. The analysis is based on the principles of hydrostatic equilibrium and the Tolman-Oppenheimer-Volkoff (TOV) equations.
 
-![Neutron-Star-Jet](https://github.com/Abhishek-465/Neutron-Star-Model/assets/127030695/c64ef0a6-0a65-4fff-878b-99948af9af8d)
+
 
 ## Introduction to Neutron Stars
 
